@@ -12,7 +12,13 @@
 3. https://opendata.elia.be
 
 ### The processing steps of the study.
-![alt text](https://github.com/DalalAL-Alimi/TLIA-/blob/main/images/2.PNG)
+![alt text](https://github.com/DalalAL-Alimi/TLIA/blob/main/images/2.PNG)
+
+### The structure of the TLIA model.
+![alt text](https://github.com/DalalAL-Alimi/TLIA/blob/main/images/1.PNG)
+
+###  The actual and ETR values for the six datasets.
+![alt text](https://github.com/DalalAL-Alimi/TLIA/blob/main/images/ETR.PNG)
 
 ## Citation
 ### We would appreciate a citation to the original paper if you use any part of this code (CRV + MHDL or anyone) for your research works.
