@@ -1,4 +1,8 @@
 # TLIA: Time-Series Forecasting Model using Long Short-Term Memory Integrated with Artificial Neural Networks for Volatile Energy Markets
+This is the primary code for the article titled "TLIA: Time-Series Forecasting Model Using Long Short-Term Memory Integrated with Artificial Neural Networks for Volatile Energy Markets" published [here](---) in the Applied Energy Journal.
+>
+## Abstract
+
 >
 **Code Operation Requirements:**
 - Python Version: 3.9.16
